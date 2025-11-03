@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hao Zhang | Sustainable Mobility Research"
+title: "Sustainable Mobility Research"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,6 +23,7 @@ Education
 2010 BArch in Architecture, Huazhong University of Science and Technology
 
 
+
 Professional Experience
 ======
 2016-2020 Chief Architect / Project Manager, officePROJECT Design & Research, Beijing
@@ -39,6 +40,3 @@ Site-wide configuration
 This website was built using the [Academic Pages template](https://academicpages.github.io/).
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

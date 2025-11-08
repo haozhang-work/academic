@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2026 PhD in Land Economy (Sustainable Mobility), University of Cambridge
+* 2023 MPhil in Land Economy by Research, University of Cambridge
+* 2021 MArch in Urban Design, University College London
+* 2010 BArch in Architecture, Huazhong University of Science and Technology
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2016 - 2020: Chief Architect / Project Manager, officePROJECT Design & Research, Beijing
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2016 Architectural Supervisor, Hopson Development Holdings Limited, Beijing
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2010-2014 Architect, Mochen Architects & Engineers, Beijing
+
 
 Publications
 ======
